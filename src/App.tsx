@@ -357,6 +357,13 @@ const Careers = () => {
       color: "bg-lagom-yellow",
       link: "https://www.linkedin.com/jobs/view/4397668316/" 
     },
+    { 
+      title: "Creative Editor / Designer", 
+      location: "DTLA", 
+      type: "Full-time Onsite", 
+      color: "bg-lagom-yellow",
+      link: "https://www.linkedin.com/jobs/view/4400079476/" 
+    },
   ];
 
   const benefits = [
